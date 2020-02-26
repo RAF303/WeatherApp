@@ -41,3 +41,17 @@ body {
 .degree-section h2 {
 	font-size: 40px;
 }
+.degreeSection {
+	display: flex;
+	align-items: center;
+	cursor: pointer;
+}
+
+.degreeSection span {
+	margin: 10px;
+	font-size: 30px;
+}
+
+.degreeSection h2 {
+	font-size: 40px;
+}
